@@ -1,4 +1,4 @@
-#include "school.h"
+#include "holberton.h"
 
 /**
  * reset_to_98 - function that takes a pointer and updates its value to 98
